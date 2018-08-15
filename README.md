@@ -1,2 +1,2 @@
 # amigo-app
-Exemplo back, front e banco no docker
+Ex back, front e banco no docker
